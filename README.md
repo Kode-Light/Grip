@@ -1,5 +1,5 @@
 The Sparks Foundation - Data Science and Business Analytics Intern @TSF
-Graduate Rotational Internship Program (GRIP - June 2021)
+Graduate Rotational Internship Program (GRIP - August 2021)
 Task 5: Exploratory Data Analysis : Sports (Indian Premier League)
 Author: Tushar Singh
 Problem Statement:
